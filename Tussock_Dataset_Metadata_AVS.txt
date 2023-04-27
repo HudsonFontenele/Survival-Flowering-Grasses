@@ -1,0 +1,30 @@
+Excel file with two sheets containing all the data of the study:
+
+
+SHEET 1: "Data_General"
+
+ - This sheet has all the general data collected from the study, including pre-fire descriptive parameters and post-fire response. This is the datasheet used for most analyses.
+ - Missing data are indivduals that could not be identified or found by the end of the study.
+ - "Survived" refers to wheather the individual survived (1), died (0), or was missing (NA).
+ - "Reprod" refers to wheather the individual flowered(1), or not (0), or was missing (NA).
+ - Shoots2019 is the number of shoots when individuals were tagged prior to fire.
+ - Shoots2020 is the number of shoots produced in the post-fire season.
+ - BA2019 is the basal area when individuals were tagged prior to fire.
+ - BA2020 is the basal area 6 months after fire.
+ - HgtV2019 is the vegetative height when individuals were tagged prior to fire.
+ - HgtR2019 is the culm height when individuals were tagged prior to fire.
+
+
+
+
+SHEET 2: "Data_Resprouting"
+ - This the dataset on the individuals that showed resprouts each month after fire.
+ - "Survived" refers to wheather the individual survived (1), died (0), or was missing (NA).
+ - "Respourted" refers to wheather the individual resprouted in each of the month.
+
+
+
+
+Ar = Aristida riparia
+Sm = Schizachyrium microstachyum
+Ts = Trachypogon spicatus
