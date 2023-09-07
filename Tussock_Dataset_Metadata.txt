@@ -1,0 +1,29 @@
+Excel file with two sheets containing the data used for the analyses:
+
+
+SHEET 1: "Data_General"
+This sheet has most of the data collected from the study. It includes pre-fire descriptive parameters and the post-fire response.
+The columns "Species, Treatment, Plot, and ID" identify individuals and the structure of the experimental design
+
+ - "Survived" states if the individual survived (1), died (0), or was missing (NA).
+ - "Reprod" states if the individual flowered (1), or not (0), or was missing (NA).
+ - Shoots2019 is the number of inflorescences when individuals were tagged prior to fire.
+ - Shoots2020 is the number of inflorescences produced in the post-fire season.
+ - BA2019 is the basal area of individuals prior to fire.
+ - BA2020 is the basal area of individuals six months after fire.
+ - HgtV2019 is the vegetative height of individuals prior to fire.
+ - HgtV2020 is the vegetative height of individuals six months after fire.
+ - HgtR2019 is the height of the tallest reproductive culm prior to fire.
+
+
+SHEET 2: "Data_Resprouting"
+This sheet has the data on the resprouting ability of each tussock. All collumns follow the description above.
+
+ - "Month" describes which post-fire month (1 to 6, and 16) observations were taken.
+ - "Resprouted" states if the individual had resprouted (showed green leaves).
+
+
+SPECIES:
+Ar = Aristida riparia
+Sm = Schizachyrium microstachyum
+Ts = Trachypogon spicatus
